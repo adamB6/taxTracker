@@ -1,0 +1,16 @@
+﻿  Account.cpp
+C:\Users\asbot\Repos\taxTracker\Account.cpp(28,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asbot\Repos\taxTracker\Account.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asbot\Repos\taxTracker\Account.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asbot\Repos\taxTracker\Account.cpp(55,9): warning C4018: '>': signed/unsigned mismatch
+C:\Users\asbot\Repos\taxTracker\Account.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asbot\Repos\taxTracker\Account.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+  Check.cpp
+  taxTracker.cpp
+C:\Users\asbot\Repos\taxTracker\taxTracker.cpp(199,15): warning C4129: 'd': unrecognized character escape sequence
+     Creating library C:\Users\asbot\Repos\taxTracker\Release\taxTracker.lib and object C:\Users\asbot\Repos\taxTracker\Release\taxTracker.exp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1335 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  taxTracker.vcxproj -> C:\Users\asbot\Repos\taxTracker\Release\taxTracker.exe

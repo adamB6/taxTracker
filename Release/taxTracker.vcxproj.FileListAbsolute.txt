@@ -1,0 +1,2 @@
+C:\Repos\taxTracker\Release\taxTracker.exe
+C:\Users\asbot\Repos\taxTracker\Release\taxTracker.exe
